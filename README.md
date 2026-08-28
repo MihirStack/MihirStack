@@ -5,10 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://mihirborsaniya.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/mihirborsaniya">LinkedIn</a> ·
-  <a href="mailto:developermihir13@gmail.com">Email</a> ·
-  Surat, Gujarat, India
+  <i>Building production ERP and multi-tenant SaaS platforms, from schema design to deployment.</i>
+</p>
+
+<p align="center">
+  <a href="https://mihirborsaniya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/mihirborsaniya"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:developermihir13@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Surat,%20India-1f2328?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 ---
@@ -41,18 +45,67 @@ I work across Node.js, Express, React, TypeScript, and MySQL, and own deployment
 
 ## Tech stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript · JavaScript |
-| **Backend** | Node.js · Express.js · REST APIs · Socket.IO · MVC architecture |
-| **Frontend** | React.js · Next.js · Redux Toolkit · React Query · Tailwind CSS · Bootstrap |
-| **Data** | MySQL · Sequelize ORM · Redis · MongoDB · Firebase |
-| **Auth & security** | JWT · OAuth · RBAC · webhook signature verification |
-| **Integrations** | Razorpay · Stripe · PayPal · WhatsApp Business API · Firebase Cloud Messaging |
-| **Infrastructure** | Linux · NGINX · PM2 · GitHub Actions · CI/CD |
-| **Tools** | Git · Postman · Swagger |
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/REST%20APIs-1f2328?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Socket.IO-1f2328?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-1f2328?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-1f2328?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/React%20Query-1f2328?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-1f2328?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+</p>
+
+**Data**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/Sequelize-1f2328?style=flat-square&logo=sequelize&logoColor=52B0E7" alt="Sequelize">
+  <img src="https://img.shields.io/badge/Redis-1f2328?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis">
+  <img src="https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-1f2328?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
+</p>
+
+**Security & integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-1f2328?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/OAuth%20%C2%B7%20RBAC-1f2328?style=flat-square&logo=auth0&logoColor=EB5424" alt="OAuth and RBAC">
+  <img src="https://img.shields.io/badge/Razorpay-1f2328?style=flat-square&logo=razorpay&logoColor=0C2451" alt="Razorpay">
+  <img src="https://img.shields.io/badge/Stripe-1f2328?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe">
+  <img src="https://img.shields.io/badge/PayPal-1f2328?style=flat-square&logo=paypal&logoColor=00457C" alt="PayPal">
+  <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-1f2328?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp Business API">
+</p>
+
+**Infrastructure & tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-1f2328?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/NGINX-1f2328?style=flat-square&logo=nginx&logoColor=009639" alt="NGINX">
+  <img src="https://img.shields.io/badge/PM2-1f2328?style=flat-square&logo=pm2&logoColor=2B037A" alt="PM2">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1f2328?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-1f2328?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-1f2328?style=flat-square&logo=swagger&logoColor=85EA2D" alt="Swagger">
+</p>
 
 *Working knowledge:* Docker · PostgreSQL · Vue.js · Python
+
 *Currently learning:* microservices & distributed systems · system design at scale
 
 ## Featured work
@@ -73,3 +126,17 @@ Proprietary systems are described at an architectural level only. No employer so
 ## Education
 
 Master of Computer Applications (MCA), Information Technology · Bachelor of Commerce (B.Com)
+
+<!--
+  GITHUB STATS — enable these only AFTER turning on
+  Settings → Public profile → "Include private contributions on my profile".
+  Until then the cards display ~33 contributions and work against you.
+  To enable: delete this comment block's opening and closing markers.
+
+<h3>GitHub activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirStack&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&hide_title=true" alt="GitHub stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirStack&layout=compact&hide_border=true&theme=transparent&hide=html,css,scss&exclude_repo=bakery-ecommerce-ui,taxi-booking-ui,tourism-website-ui,travel-agency-ui,it-firm-website-ui,casino-game-website-ui" alt="Top languages" height="150">
+</p>
+-->
